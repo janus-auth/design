@@ -11,7 +11,7 @@ Janus is an authentication and authorization system with the following propertie
 This is the repository for the design of the Janus system.
 Use the table of contents below to navigate the documents, 
 otherwise visit the [javascript](https://github.com/janus-auth/janus.js) 
-or [rust](coming soon) implementation repositories.
+or rust (coming soon) implementation repositories.
 
 ## Table of contents
 - [Problem Statement](docs/10_problem/README.md): Why Janus?
