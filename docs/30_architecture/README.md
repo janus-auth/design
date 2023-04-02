@@ -1,6 +1,6 @@
-# Infrastructure
+# Architecture
 
-This section describes the components which makes up an instance of the Janus system.
+This section describes the components which makes up the architecture of the Janus system.
 
 - [auth-service](10_auth-service.md)
 - [hsm-service](20_hsm-service.md)
