@@ -9,7 +9,7 @@ its [capability](https://en.wikipedia.org/wiki/Capability-based_security) based 
 
 This is the repository for the design documents.
 Use the table of contents below to navigate, or visit:
--  [Javascript implementation](https://github.com/janus-auth/janus.js) 
+-  [Javascript implementation](https://github.com/janus-auth/janus.js) of client and server.
 -  [Rust implementation](https://google.com) (coming soon)
 -  [Youtube channel](https://www.youtube.com/channel/UC7i6ZGtI2b2XA5n2lgwNkaQ) where we discuss about the Janus system.
 
