@@ -11,7 +11,7 @@ flowchart LR
     id5 --- id1
 
 
-    id1(HTTP handler)
+    id1(Handlers)
     id2(DataStore)
     id3(Cache)
     id4(KeyStore)
@@ -30,6 +30,7 @@ Identity Handlers:
 - Join
 - Leave
 - Rotate
+- View
 
 Session Handlers:
 - Login
