@@ -1,5 +1,5 @@
 # Janus Protocol
-In this section we describe the protocol used by the Janus system to communicate.
+In this section we describe the public facing protocols used by the Janus system.
 
 Event based system, similar to pools of postgresql clients.
 
