@@ -11,11 +11,11 @@ flowchart LR
     id5 --- id1
 
 
-    id1(Handlers)
+    id1[Handlers]
     id2(DataStore)
     id3(Cache)
     id4(KeyStore)
-    id5(Clients)
+    id5[Clients]
 ```
 
 

@@ -20,11 +20,11 @@ flowchart LR
         sid1 --- sid3
     end
 
-    sid1(auth-service)
-    sid2(hsm-service)
-    sid3(identity-services)
+    sid1[auth-service]
+    sid2[hsm-service]
+    sid3[identity-services]
     sid4(EventBus)
 
-    id1(Clients)
+    id1[Clients]
     id3[(DataStore)]
 ```
