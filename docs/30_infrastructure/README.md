@@ -1,23 +1,30 @@
 # Infrastructure
 
+This section describes the components which makes up an instance of the Janus system.
+
+- [auth-service](10_auth-service.md)
+- [hsm-service](20_hsm-service.md)
+- [identity-services](30_identity-services.md)
+- [DataStore](40_DataStore.md)
+- [EventBus](50_EventBus.md)
+
 ```mermaid
 flowchart LR
 
-    id1 <--> sid1
+    id1 --- sid1
 
     subgraph dmz [Demilitarized Zone]
-        sid1 <--> id3
-        sid1 <--> sid2
-        sid1 --> id4 --> sid4 <--> id3
-        sid1 <--> sid3
+        sid1 --- id3
+        sid1 --- sid2
+        sid1 --- sid4 --- id3
+        sid1 --- sid3
     end
 
     sid1(auth-service)
     sid2(hsm-service)
     sid3(identity-services)
-    sid4(etl-service)
+    sid4(EventBus)
 
     id1(Clients)
     id3[(DataStore)]
-    id4(EventBus)
 ```
