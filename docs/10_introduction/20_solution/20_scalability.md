@@ -2,4 +2,6 @@
 
 ## Datastore
 
+dynamo
+
 ## Stateless workers
