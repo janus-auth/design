@@ -17,5 +17,5 @@ Use the table of contents below to navigate, or visit:
 - [Problem Statement](docs/10_problem/README.md): Why Janus?
 - [Architecture](docs/20_solution/README.md): What does Janus do?
 - [Infrastructure](docs/30_architecture/README.md): What is Janus made of?
-- [Protocol](docs/40_protocol/README.md): How does Janus work?
+- [Protocols](docs/40_protocols/README.md): How does Janus work?
 

@@ -1,1 +1,1 @@
-# Fragmentation versus federation
+# Fragmentation and trust

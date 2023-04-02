@@ -36,5 +36,5 @@ Session Handlers:
 - Logout
 
 Capability Handlers:
-- Attest
-- Accredit
+- Attest (verify)
+- Accredit (sign)
