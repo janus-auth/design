@@ -2,18 +2,21 @@
 
 This section describes the problems which motivate the existence of Janus.
 
-Problem Statement
-- [The problem behind secrets](10_problem/10_secrets.md)
-- [Fragility and auth systems](10_problem/20_fragility.md)
-- [Fragmentation and trust](10_problem/30_fragmentation.md)
+Problems Statement:
+- [The problem behind secrets](10_problems/10_secrets.md)
+- [Fragility and auth systems](10_problems/20_fragility.md)
+- [Fragmentation and trust](10_problems/30_fragmentation.md)
+- [Other attacks](10_problems/40_other_attacks.md)
 
-Solution:
-- [Hybrid Cryptosystems](20_solution/10_hybrid.md)
-- [Scalability](20_solution/20_scalability.md)
-- [Capabilities based security](20_solution/30_capabilities.md)
+Solutions:
+- [Hybrid Cryptosystems](20_solutions/10_hybrid.md)
+- [Scalability](20_solutions/20_scalability.md)
+- [Capabilities based security](20_solutions/30_capabilities.md)
+- [Defenses](20_solutions/40_defenses.md)
 
-
-
+Tools used:
+- [Crypto APIs](30_tools/10_crypto.md)
+- [Janus Micro](30_tools/20_janus-micro.md)
 
 
 

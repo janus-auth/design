@@ -17,10 +17,8 @@ This is the repository for the design documents. Use the table of contents below
 - [Architecture](docs/20_architecture/README.md): What is Janus made of?
 - [Protocols](docs/30_protocols/README.md): How does Janus work?
 
-
 ## TODOS
 
-- profiles and downgrade attacks
-- web crypto api
-- wasi crypto api
-- hardware tokens
+- crypto primitives
+- permission tree
+- authorization flow
