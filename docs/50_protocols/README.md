@@ -7,3 +7,6 @@ Event based system, similar to pools of postgresql clients.
 - [Identity protocol](20_identity.md)
 - [Session protocol](30_session.md)
 - [Capability protocol](40_capability.md)
+
+// TODO: Here we should make examples of how crypto primitives are used
+// Move the current content to architecture

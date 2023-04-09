@@ -1,5 +1,5 @@
 # Cryptographic tools
 
-- H
+- Primitives
 - web crypto
 - wasi crypto
